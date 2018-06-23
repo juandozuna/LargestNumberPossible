@@ -1,0 +1,8 @@
+/Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/bin/Debug/LargestNumberPossible.dll
+/Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/bin/Debug/LargestNumberPossible.pdb
+/Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/bin/Debug/nunit.framework.dll
+/Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/bin/Debug/nunit.framework.xml
+/Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/obj/Debug/LargestNumberPossible.csprojResolveAssemblyReference.cache
+/Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/obj/Debug/LargestNumberPossible.csproj.CoreCompileInputs.cache
+/Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/obj/Debug/LargestNumberPossible.dll
+/Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/obj/Debug/LargestNumberPossible.pdb
