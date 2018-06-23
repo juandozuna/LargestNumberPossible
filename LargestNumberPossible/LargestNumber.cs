@@ -8,28 +8,31 @@ namespace LargestNumberPossible
     {
         public string GetLargest(int[] nums)
         {
+            if (PossibleToGetLargest(nums))
+                return GetLargestAlgorithm(nums);
+            return "0";
+        }
+
+        private string GetLargestAlgorithm(int[] nums){
             string ret = "";
-            if (nums.Length <= 0)
-                return "";
-            
-            int zerCount = 0;
+
             var arr = new List<String>();
 
-            foreach (var n in nums) 
+            foreach (var n in nums)
             {
-                if (n < 0) return "";
-                if (n == 0) zerCount++;
                 arr.Add(n.ToString());
             }
-            if (zerCount == nums.Length) return "0";
 
             arr.Sort(new CustomStringComparator());
             for (int i = 0; i < arr.Count; i++)
-            {                    
+            {
                 ret += arr[i];
             }
             return ret;
         }
+
+        private bool PossibleToGetLargest(int[] nums) =>
+            (nums.Sum() <= 0 || nums.Any(n => n < 0)) ? false : true;
           
     }
 

@@ -11,7 +11,7 @@ namespace LargestNumberPossible
         {
 
             LargestNumber largest = new LargestNumber();
-            Assert.AreEqual("", largest.GetLargest(new int[] { }));
+            Assert.AreEqual("0", largest.GetLargest(new int[] { }));
 
         }
 
@@ -20,7 +20,7 @@ namespace LargestNumberPossible
         {
 
             LargestNumber largest = new LargestNumber();
-            Assert.AreEqual("", largest.GetLargest(new int[] { -1, -3, 9, -7, 5 }));
+            Assert.AreEqual("0", largest.GetLargest(new int[] { -1, -3, 9, -7, 5 }));
         }
 
         [Test()]
