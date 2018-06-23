@@ -6,3 +6,12 @@
 /Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/obj/Debug/LargestNumberPossible.csproj.CoreCompileInputs.cache
 /Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/obj/Debug/LargestNumberPossible.dll
 /Users/JuanDaniel/Projects/LargestNumberPossible/LargestNumberPossible/obj/Debug/LargestNumberPossible.pdb
+\\Mac\Home\Projects\LargestNumberPossible\LargestNumberPossible\bin\Debug\LargestNumberPossible.dll
+\\Mac\Home\Projects\LargestNumberPossible\LargestNumberPossible\bin\Debug\LargestNumberPossible.pdb
+\\Mac\Home\Projects\LargestNumberPossible\LargestNumberPossible\bin\Debug\nunit.framework.dll
+\\Mac\Home\Projects\LargestNumberPossible\LargestNumberPossible\bin\Debug\nunit.framework.xml
+\\Mac\Home\Projects\LargestNumberPossible\LargestNumberPossible\obj\Debug\LargestNumberPossible.csprojAssemblyReference.cache
+\\Mac\Home\Projects\LargestNumberPossible\LargestNumberPossible\obj\Debug\LargestNumberPossible.csproj.CoreCompileInputs.cache
+\\Mac\Home\Projects\LargestNumberPossible\LargestNumberPossible\obj\Debug\LargestNumberPossible.csproj.CopyComplete
+\\Mac\Home\Projects\LargestNumberPossible\LargestNumberPossible\obj\Debug\LargestNumberPossible.dll
+\\Mac\Home\Projects\LargestNumberPossible\LargestNumberPossible\obj\Debug\LargestNumberPossible.pdb
